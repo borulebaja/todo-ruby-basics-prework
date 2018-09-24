@@ -23,5 +23,5 @@ def last_evaluated_value(phrase = "expert")
 end
 
 def pizza_party
-  puts "cheese"
+  return "cheese"
 end
